@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         TradeGenius Auto Swap - BSC USDT/KOGE
 // @namespace    https://www.tradegenius.com
-// @version      1.0.0
+// @version      1.0.1
 // @description  Automated USDT/KOGE swap on BSC chain with P3 pool
 // @author       @ferdie_jhovie
+// @author2      @StevenTsaii update
 // @match        https://www.tradegenius.com/trade
 // @grant        none
 // @run-at       document-idle
